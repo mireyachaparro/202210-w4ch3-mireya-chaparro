@@ -1,7 +1,3 @@
-import { King } from './king';
-import { Adviser } from './adviser';
-import { Fighter } from './fighter';
-import { Squire } from './squire';
 import { CharacterModel } from './charactermodel';
 
 export class Character implements CharacterModel {
