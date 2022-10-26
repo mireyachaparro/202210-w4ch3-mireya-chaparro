@@ -1,3 +1,10 @@
+import { CharacterList } from '../character-list/characterlist';
+import './app.css';
+
 export function App() {
-    return <div className="app">Probando</div>;
+    return (
+        <>
+            <CharacterList></CharacterList>;
+        </>
+    );
 }
