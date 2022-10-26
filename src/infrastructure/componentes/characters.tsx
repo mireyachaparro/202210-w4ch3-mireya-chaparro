@@ -8,5 +8,5 @@ export const characters = [
     new Fighter('Jaime', 'Lannister', 35, 'AK47', 8),
     new Fighter('Daenerys', 'Targaryen', 28, 'destornillador', 7),
     new Adviser('Tyrion', 'Lannister', 60, null),
-    new Squire('Bronn ', '', 60, 'Jaime', 6),
+    new Squire('Bronn', '', 60, 'Jaime', 6),
 ];
